@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/himanshupanwarr/E-gyan.git/static/css/main.404bdeb7.css",
+    "main.js": "/himanshupanwarr/E-gyan.git/static/js/main.97c2f44f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/himanshupanwarr/E-gyan.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/himanshupanwarr/E-gyan.git/index.html",
+    "main.404bdeb7.css.map": "/himanshupanwarr/E-gyan.git/static/css/main.404bdeb7.css.map",
+    "main.97c2f44f.js.map": "/himanshupanwarr/E-gyan.git/static/js/main.97c2f44f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/himanshupanwarr/E-gyan.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404bdeb7.css",
+    "static/js/main.97c2f44f.js"
+  ]
+}
